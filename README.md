@@ -16,4 +16,4 @@ Free Open Source Whatsapp API
 
 ## Criando e iniciando sessão
 
-`POST/ http://127.0.0.1:3333/create/NOME-DA-SESSAO`
+`POST/ http://127.0.0.1:3333/session/create/NOME-DA-SESSAO`
